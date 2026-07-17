@@ -1,0 +1,9 @@
+elevenlabs
+gTTS
+pygame
+pyttsx3
+vosk
+sounddevice
+SpeechRecognition
+pyaudio
+RPi.GPIO
